@@ -328,82 +328,82 @@ Commands list :
 
 !kick [username|id]
 You can also do it by reply
-
+حذف به وسیله یوزرنام
 !ban [ username|id]
 You can also do it by reply
-
+بن به وسیله یوزرنام
 !unban [id]
 You can also do it by reply
-
+حذف بن به وسیله یوزرنام
 !who
 Members list
-
+اطلاعات 
 !modlist
 Moderators list
-
+لیست مدیران
 !promote [username]
 Promote someone
-
+افزودن مدیربا یوزرنام
 !demote [username]
 Demote someone
-
+حذف مدیر با یوزرنام
 !kickme
 Will kick user
-
+حذف خود از گروه
 !about
 Group description
-
+در مورد گروه
 !setphoto
 Set and locks group photo
-
+تنظیم عکس
 !setname [name]
 Set group name
-
+تنظیم نام
 !rules
 Group rules
-
+قوانین
 !id
 Return group id or user id
-
+آیدی گروه
 !help
 Get commands list
-
+راهنما برای دستورات 
 !lock [member|name|bots|leave] 
 Locks [member|name|bots|leaveing] 
-
+قفل اعضا نام بات و لیو 
 !unlock [member|name|bots|leave]
 Unlocks [member|name|bots|leaving]
-
+باز کردن قفل اعضا نام بات و لیو
 !set rules [text]
 Set [text] as rules
-
+تنظیم  قوانین گروه
 !set about [text]
 Set [text] as about
-
+تنظیم در مورد گروه
 !settings
 Returns group settings
-
+تنظیمات گروه
 !newlink
 Create/revoke your group link
-
+لینک جدید
 !link
 Returns group link
-
+ارسال لینک
 !owner
 Returns group owner id
-
+نشان دادن صاحب گروه
 !setowner [id]
 Will set id as owner
-
+تنظیم به عنوان مدیر اصلی
 !setflood [value]
 Set [value] as flood sensitivity
-
+تنظیم فلود
 !stats
 Simple message statistics
-
+در مورد بات 
 !save [value] [text]
 Save [text] as [value]
-
+سیو متن
 !get [value]
 Returns text of [value]
 
