@@ -19,7 +19,7 @@ return {
  },
  patterns = {
   "^[!/](plug) (.*)$",
-  "^[Pp]lug> ([^%s]+) (.*)$",
+  "^/[Pp]lug> ([^%s]+) (.*)$",
  },
  run = run,
 privileged = true,
