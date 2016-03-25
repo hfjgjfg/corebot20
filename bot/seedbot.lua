@@ -224,6 +224,7 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "plugins1",
     "leave_ban",
     "admin"
     },
